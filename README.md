@@ -1,0 +1,1 @@
+This repository demonstrates a common bug in Next.js 15's App Router related to unexpected route matching or 404 errors. The bug occurs when using dynamic routes or nested layouts in the app directory. The solution shows how to properly configure routes to avoid these issues.
